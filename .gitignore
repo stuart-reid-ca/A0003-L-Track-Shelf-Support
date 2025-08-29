@@ -1,0 +1,14 @@
+# SolidWorks temp/backup files
+~$*
+*.bak
+*.log
+*.slddrw#     # temporary drawing lock files
+*.slddrw.$*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
